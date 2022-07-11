@@ -1,0 +1,13 @@
+{
+	"pubf": {
+		"prefix": "pubf",
+		"body": [
+			"",
+			"public function $1()",
+			"{",
+			"\t$2",
+			"}"
+		],
+		"description": "create public function"
+	}
+}

@@ -1,0 +1,61 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 15,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.tabSize": 2,
+  "prettier.requireConfig": false,
+  "prettier.semi": false,
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "eslint.alwaysShowStatus": true,
+  "html.format.enable": false,
+  "htmlhint.enable": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "rainbowTags.allowEverywhere": true,
+  "emmet.triggerExpansionOnTab": true,
+  "javascript.implicitProjectConfig.checkJs": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "thunder-client.htmlView": "Raw Html",
+  "thunder-client.codeSnippetLanguage": "cs-httpclient",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "tabnine.experimentalAutoImports": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.comments.ignoreEmptyLines": true,
+  "zenMode.hideLineNumbers": false,
+  "editor.trimAutoWhitespace": false,
+  "editor.unusualLineTerminators": "off",
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "npm.keybindingsChangedWarningShown": true,
+  "workbench.statusBar.visible": false,
+  "workbench.colorTheme": "Slime",
+  "editor.tabCompletion": "on"
+}
